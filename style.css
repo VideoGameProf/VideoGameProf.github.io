@@ -5,18 +5,18 @@ body{
  	following are some optional font families. Usually a family 
 	is safer to choose than a specific font, 
 	which may not be on the users computer		*/
-    font-family:Georgia, Palatino, serif;
+  /  font-family:Georgia, Palatino, serif;
 /    font-family:"Book Antiqua", Palatino, serif;
 /    font-family:Arial, Helvetica, sans-serif;
 /    font-family:Tahoma, Verdana, Geneva, sans-serif;
-/    font-family:Courier, monospace;
+   font-family:Courier, monospace;
 /    font-family:"Times New Roman", Times, serif;
 
 /*	-------------- COLOR OPTIONS ------------
  	following are additional color options for base font
 	you could uncomment another one to easily change the base color 
 	or add one to a specific element style below         */		
-    color: #e204df; /* purple(226,4,223)*/
+    color: #E204DF; /* purple(226,4,223)*/
 /    color: #000000; /* black */
 /    color: #666666; /* medium gray  black */	
 /    color: #E3E3E3; /* very light gray */
